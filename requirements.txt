@@ -20,7 +20,6 @@ entrypoints==0.3
 enum-compat==0.0.3
 future==0.18.2
 gast==0.3.3
-gcc7==0.0.9
 google-auth==1.17.2
 google-auth-oauthlib==0.4.2
 google-pasta==0.2.0

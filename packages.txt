@@ -1,3 +1,5 @@
-install build-essential cmake
-install libgtk-3-dev
-install libboost-all-dev
+build-essential cmake
+libgtk-3-dev
+libboost-all-dev
+dlib
+conda-forge dlib
